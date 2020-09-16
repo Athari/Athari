@@ -2,7 +2,8 @@
 ![GitHub following](https://img.shields.io/badge/dynamic/json?color=informational&label=following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAthari)
 ![Native language: C#](https://img.shields.io/badge/native_language-c%23-success)
 ![Human language: English, Russian](https://img.shields.io/badge/human_language-english,_russian-success)
-![Badges: 5](https://img.shields.io/badge/badges-5-inactive)
+![Time zone: UTC+3](https://img.shields.io/badge/time_zone-utc+3-warning)
+![Badges: 6](https://img.shields.io/badge/badges-6-inactive)
 
 <!--
 **Athari/Athari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
