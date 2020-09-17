@@ -4,7 +4,7 @@
 [![Native language: C#](https://img.shields.io/badge/native_language-c%23-success)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "C#: structured, imperative, object-oriented, event-driven, task-driven, functional, generic, reflective, concurrent")
 [![Time zone: UTC+3 (MSK)](https://img.shields.io/badge/time_zone-utc+3_(msk)-warning)](https://www.timeanddate.com/worldclock/converter.html?p1=tz_msk&p2=1440 "Time zone: UTC+3 / GMT+3 / MSK")
 <br>
-[![Human created: English, Russian](https://img.shields.io/badge/human_created-1986--02--11T21:46:08+3:00-informational)](http://mycount.org/en/?wm=4&t=508531568000&tz=1124912&t1=&t2=&fid=1 "Human age: DateTime.Now - new DateTime(1986, 2, 11, 21, 46, 8)")
+[![Human created: English, Russian](https://img.shields.io/badge/human_created-1986--02--11T21:46:08+03:00-informational)](http://mycount.org/en/?wm=4&t=508531568000&tz=1124912&t1=&t2=&fid=1 "Human age: DateTime.Now - new DateTime(1986, 2, 11, 21, 46, 8)")
 [![Human language: English, Russian](https://img.shields.io/badge/human_language-english,_russian-success)](https://translate.google.com/?sl=ru&tl=en)
 ![Gender: male](https://img.shields.io/badge/gender-male-inactive "Gender: male")
 [![Pronouns: взаимное ты, он, his](https://img.shields.io/badge/pronouns-взаимное_ты,_он,_he-inactive)](https://en.wikipedia.org/wiki/T–V_distinction#Modern_history "Pronouns: взаимное ты, он, he")
