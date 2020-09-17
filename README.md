@@ -9,6 +9,10 @@
 ![Gender: male](https://img.shields.io/badge/gender-male-inactive "Gender: male")
 [![Pronouns: взаимное ты, он, his](https://img.shields.io/badge/pronouns-взаимное_ты,_он,_he-inactive)](https://en.wikipedia.org/wiki/T–V_distinction#Modern_history "Pronouns: взаимное ты, он, he")
 <br>
+[![Education: specialist, KPFU, IoCMaIT](https://img.shields.io/badge/education-specialist,_kpfu,_iocmait-success)](https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-computer-mathematics-and-information "Education: specialist (bachelor/master hybrid), Kazan Federal University, Institute of Computational Mathematics and Information Technologies")
+[![Alignment: chaotic neutral](https://img.shields.io/badge/alignment-chaotic_neutral-inactive)](https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_neutral "Alignment: chaotic neutral")
+[![Political views: civil libertarianism](https://img.shields.io/badge/political_views-civil_libertarianism-inactive)](https://politics.stackexchange.com/a/46573/4272 "Political views: civil libertarianism")
+<br>
 ![E-mail: athari.p (cat with a curly tail) gmail.com](https://img.shields.io/badge/e--mail-athari.p%20(cat%20with%20a%20curly%20tail)%20gmail.com-success "Replace '(cat with a curly tail)' with @ symbol")
 [![Telegram: @Athari_P](https://img.shields.io/badge/telegram-@athari__p-success)](https://t.me/athari_p "Telegram instant messenger: Athari_P")
 [![Skype: @Athari_P](https://img.shields.io/badge/skype-@athari__p-success)](skype:athari_p?chat "Skype instant messenger: Athari_P")
@@ -16,6 +20,6 @@
 [![Хабрахабр: Athari](https://img.shields.io/badge/хабр-athari-%2377f)](https://habr.com/users/athari/ "Профиль на Хабрахабре: Athari")
 <br>
 ![Flairs: 1](https://img.shields.io/badge/flairs-1-inactive)
-![Badges: 16](https://img.shields.io/badge/badges-16-inactive)
+![Badges: 19](https://img.shields.io/badge/badges-19-inactive)
 
 [![StackExchange flair](https://stackexchange.com/users/flair/110819.png "Total reputation on Stack Overflow and related websites and the list of these websites")](https://stackoverflow.com/users/293099)
